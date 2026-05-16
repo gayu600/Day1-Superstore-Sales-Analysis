@@ -99,63 +99,64 @@ This segmentation helps businesses identify valuable customers and create target
 
 ---
 
-## Project Visualizations
+# Project Visualizations
 
-### Sales by Category
+## Sales by Category
 ![Sales by Category](charts/sales_by_category.png)
 
-### Profit by Region
-![Profit by Region](charts/profit_by_region.png)
+## Profit by Region
+![Profit by Region](charts/Profit_by_Region.png)
 
-### Monthly Sales Trend
-![Monthly Sales Trend](charts/monthly_sales_trend.png)
+## Monthly Sales Trend
+![Monthly Sales Trend](charts/Monthly_Sales_Trend.png)
 
-### Monthly Profit Trend
-![Monthly Profit Trend](charts/monthly_profit_trend.png)
+## Monthly Profit Trend
+![Monthly Profit Trend](charts/Monthly_Profit_Trend.png)
 
-### Sales Distribution
-![Sales Distribution](charts/sales_distribution.png)
+## Sales Distribution
+![Sales Distribution](charts/Sales_Distribution.png)
 
-### Profit Distribution
-![Profit Distribution](charts/profit_distribution.png)
+## Profit Distribution
+![Profit Distribution](charts/Profit_Distribution.png)
 
-### Sales by Region
-![Sales by Region](charts/sales_by_region.png)
+## Sales by Region
+![Sales by Region](charts/Sales_by_Region.png)
 
-### Sales by Customer Segment
-![Sales by Customer Segment](charts/sales_by_customer_segment.png)
+## Sales by Customer Segment
+![Sales by Customer Segment](charts/Sales_by_Customer_Segment.png)
 
-### Orders by Ship Mode
-![Orders by Ship Mode](charts/orders_by_ship_mode.png)
+## Orders by Ship Mode
+![Orders by Ship Mode](charts/Orders_by_Ship_Mode.png)
 
-### Sales vs Profit
-![Sales vs Profit](charts/sales_vs_profit.png)
+## Sales vs Profit
+![Sales vs Profit](charts/Sales_vs_Profit.png)
 
-### Discount vs Profit
-![Discount vs Profit](charts/discount_vs_profit.png)
+## Discount vs Profit
+![Discount vs Profit](charts/Discount_vs_Profit.png)
 
-### Correlation Heatmap
-![Correlation Heatmap](charts/correlation_heatmap.png)
+## Correlation Heatmap
+![Correlation Heatmap](charts/Correlation_Heatmap.png)
 
-### Top 10 Products by Sales
-![Top 10 Products by Sales](charts/top_10_products_by_sales.png)
+## Top 10 Products by Sales
+![Top 10 Products by Sales](charts/Top_10_Products_by_Sales.png)
 
-### Customer Segmentation
+## Customer Segmentation
 ![Customer Segmentation](charts/customers_segmentation.png)
 
-### Customer Segments Share
-![Customer Segments Share](charts/customers_segments_share.png)
+## Customer Segments Share
+![Customer Segments Share](charts/customers_segments_Share.png)
 
-### Top Customers by Sales
+## Top Customers by Sales
 ![Top Customers by Sales](charts/top_customers_sales.png)
 
-### Top Customers by Profit
-![Top Customers by Profit](charts/top_customers_profit.png)
+## Top Customers by Profit
+![Top Customers by Profit](charts/top_customers_Profit.png)
 
-### Top Loss-Making Customers
+## Top Loss-Making Customers
 ![Top Loss-Making Customers](charts/top_loss_making_customers.png)
 
 ---
+
 
 ## Conclusion
 
