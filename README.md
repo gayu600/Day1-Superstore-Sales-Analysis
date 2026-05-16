@@ -178,6 +178,13 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ![Orders by Ship Mode](./charts/orders_by_ship_mode.png)
 
+
+---
+
+## Orders by Ship Mode
+
+![Orders by Ship Mode](./charts/orders_by_ship_mode.png)
+
 ---
 
 ## Sales vs Profit
