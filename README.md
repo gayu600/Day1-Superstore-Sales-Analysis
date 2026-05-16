@@ -140,7 +140,7 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Monthly Sales Trend
 
-![Monthly Sales Trend](charts/Monthly Sales Trend.png)
+![Monthly Sales Trend](charts/Monthly%20Sales%20Trend.png)
 
 ---
 
@@ -152,20 +152,18 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Sales Distribution
 
-![Sales Distribution](charts/Sales Distribution.png)
-
+![Sales Distribution](charts/Sales%20Distribution.png)
 ---
 
 ## Profit Distribution
 
-![Profit Distribution](charts/Profit Distribution.png)
+![Profit Distribution](charts/Profit%20Distribution.png)
 
 ---
 
 ## Sales by Region
 
-![Sales by Region](charts/Sales by Region.png)
-
+![Sales by Region](charts/Sales%20by%20Region.png)
 ---
 
 ## Sales by Customer Segment
@@ -182,26 +180,26 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Sales vs Profit
 
-![Sales vs Profit](charts/Sales vs Profit.png)
+![Sales vs Profit](charts/Sales%20vs%20Profit.png)
 
 ---
 
 ## Discount vs Profit
 
-![Discount vs Profit](charts/Discount vs Profit.png)
+![Discount vs Profit](charts/Discount%20vs%20Profit.png)
+
 
 ---
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](charts/Correlation Heatmap.png)
+![Correlation Heatmap](charts/Correlation%20Heatmap.png)
 
 ---
 
 ## Top 10 Products by Sales
 
-![Top 10 Products by Sales](charts/Top 10 Products by Sales.png)
-
+![Top 10 Products by Sales](charts/Top%2010%20Products%20by%20Sales.png)
 ---
 
 ## Customer Segmentation
