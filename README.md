@@ -109,6 +109,9 @@ The project includes:
 * Pie Charts
 * Heatmap
 * Customer Segmentation Analysis
+ ## Sales by Category
+
+![Sales Chart](charts/sales_by_category.png)
 
 ---
 
