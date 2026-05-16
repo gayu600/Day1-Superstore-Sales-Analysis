@@ -130,16 +130,16 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 ![Sales by Category](./charts/sales_by_category.png)
 
 ## Profit by Region
-![Profit by Region](./charts/Profit_by_Region.png)
+![Profit by Region](./charts/profit_by_region.png)
 
 ## Monthly Sales Trend
-![Monthly Sales Trend](./charts/Monthly_Sales_Trend.png)
+![Monthly Sales Trend](./charts/monthly_sales_trend.png)
 
 ## Monthly Profit Trend
 ![Monthly Profit Trend](./charts/monthly_profit_trend.png)
 
 ## Sales Distribution
-![Sales Distribution](./charts/Sales_Distribution.png)
+![Sales Distribution](./charts/sales_distribution.png)
 
 ## Profit Distribution
 ![Profit Distribution](./charts/Profit_Distribution.png)
@@ -154,13 +154,10 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 ![Orders by Ship Mode](./charts/orders_by_ship_mode.png)
 
 ## Sales vs Profit
-![Sales vs Profit](./charts/Sales_vs_Profit.png)
+![Sales vs Profit](./charts/sales_vs_profit.png)
 
 ## Discount vs Profit
-![Discount vs Profit](./charts/Discount_vs_Profit.png)
-
-## Correlation Heatmap
-![Correlation Heatmap](./charts/Correlation_Heatmap.png)
+![Discount vs Profit](./charts/discount_vs_profit.png)
 
 ## Top 10 Products by Sales
 ![Top 10 Products by Sales](./charts/top_10_products_by_sales.png)
