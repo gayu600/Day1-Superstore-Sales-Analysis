@@ -134,7 +134,7 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Profit by Region
 
-![Profit by Region](charts/Profit by Region.png)
+![Profit by Region](charts/Profit%20by%20Region.png))
 
 ---
 
