@@ -145,14 +145,13 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 ---
 
 ## Monthly Profit Trend
-
-![Monthly Profit Trend](charts/Monthly Profit Trend.png)
+![Monthly Profit Trend](charts/monthly_profit_trend.png)
 
 ---
 
-## Sales Distribution
+## Sales by Customer Segment
+![Sales by Customer Segment](charts/sales_by_customer_segment.png)
 
-![Sales Distribution](charts/Sales Distribution.png)
 ---
 
 ## Profit Distribution
@@ -162,19 +161,12 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 ---
 
 ## Sales by Region
-
-![Sales by Region](charts/Sales%20by%20Region.png)
----
-
-## Sales by Customer Segment
-
-![Sales by Customer Segment](charts/Sales by Customer Segment.png)
+![Sales by Region](charts/sales_by_region.png)
 
 ---
 
 ## Orders by Ship Mode
-
-![Orders by Ship Mode](charts/Orders by Ship Mode.png)
+![Orders by Ship Mode](charts/orders_by_ship_mode.png)
 
 ---
 
@@ -199,7 +191,8 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Top 10 Products by Sales
 
-![Top 10 Products by Sales](charts/Top%2010%20Products%20by%20Sales.png)
+![Top 10 Products by Sales](charts/top_10_products_by_sales.png)
+
 ---
 
 ## Customer Segmentation
