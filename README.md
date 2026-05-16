@@ -147,6 +147,7 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 ## Monthly Profit Trend
 ![Monthly Profit Trend](charts/monthly_profit_trend.png)
 
+
 ---
 
 ## Sales by Customer Segment
@@ -162,6 +163,7 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Sales by Region
 ![Sales by Region](charts/sales_by_region.png)
+
 
 ---
 
@@ -190,7 +192,6 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 ---
 
 ## Top 10 Products by Sales
-
 ![Top 10 Products by Sales](charts/top_10_products_by_sales.png)
 
 ---
