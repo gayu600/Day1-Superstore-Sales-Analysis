@@ -152,7 +152,7 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Sales Distribution
 
-![Sales Distribution](charts/Sales%20Distribution.png)
+![Sales Distribution](charts/Sales Distribution.png)
 ---
 
 ## Profit Distribution
