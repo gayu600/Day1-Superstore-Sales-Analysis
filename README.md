@@ -128,103 +128,103 @@ Overall, this project strengthened my practical understanding of Data Analytics 
 
 ## Sales by Category
 
-![Sales by Category](charts/sales_by_category.png)
+![Sales by Category](./charts/sales_by_category.png)
 
 ---
 
 ## Profit by Region
 
-![Profit by Region](charts/Profit%20by%20Region.png))
+![Profit by Region](./charts/Profit_by_Region.png)
 
 ---
 
 ## Monthly Sales Trend
 
-![Monthly Sales Trend](charts/Monthly%20Sales%20Trend.png)
+![Monthly Sales Trend](./charts/Monthly_Sales_Trend.png)
 
 ---
 
 ## Monthly Profit Trend
-![Monthly Profit Trend](charts/monthly_profit_trend.png)
 
+![Monthly Profit Trend](./charts/monthly_profit_trend.png)
 
 ---
 
-## Sales by Customer Segment
-![Sales by Customer Segment](charts/sales_by_customer_segment.png)
+## Sales Distribution
+
+![Sales Distribution](./charts/Sales_Distribution.png)
 
 ---
 
 ## Profit Distribution
 
-![Profit Distribution](charts/Profit%20Distribution.png)
+![Profit Distribution](./charts/Profit_Distribution.png)
 
 ---
 
 ## Sales by Region
-![Sales by Region](charts/sales_by_region.png)
 
+![Sales by Region](./charts/sales_by_region.png)
+
+---
+
+## Sales by Customer Segment
+
+![Sales by Customer Segment](./charts/sales_by_customer_segment.png)
 
 ---
 
 ## Orders by Ship Mode
-![Orders by Ship Mode](charts/orders_by_ship_mode.png)
+
+![Orders by Ship Mode](./charts/orders_by_ship_mode.png)
 
 ---
 
 ## Sales vs Profit
 
-![Sales vs Profit](charts/Sales%20vs%20Profit.png)
+![Sales vs Profit](./charts/Sales_vs_Profit.png)
 
 ---
 
 ## Discount vs Profit
 
-![Discount vs Profit](charts/Discount%20vs%20Profit.png)
-
+![Discount vs Profit](./charts/Discount_vs_Profit.png)
 
 ---
 
 ## Correlation Heatmap
 
-![Correlation Heatmap](charts/Correlation%20Heatmap.png)
+![Correlation Heatmap](./charts/Correlation_Heatmap.png)
 
 ---
 
 ## Top 10 Products by Sales
-![Top 10 Products by Sales](charts/top_10_products_by_sales.png)
+
+![Top 10 Products by Sales](./charts/top_10_products_by_sales.png)
 
 ---
 
 ## Customer Segmentation
 
-![Customer Segmentation](charts/customers_segmentation.png)
+![Customer Segmentation](./charts/customers_segmentation.png)
 
 ---
 
 ## Customer Segments Share
 
-![Customer Segments Share](charts/customers_segments_Share.png)
+![Customer Segments Share](./charts/customers_segments_Share.png)
 
 ---
 
 ## Top Customers by Sales
 
-![Top Customers by Sales](charts/top_customers_sales.png)
+![Top Customers by Sales](./charts/top_customers_sales.png)
 
 ---
 
 ## Top Customers by Profit
 
-![Top Customers by Profit](charts/top_customers_Profit.png)
-
----
-
-## Top Loss-Making Customers
-
-![Top Loss-Making Customers](charts/top_loss-Making_customers.png)
-
----
+![Top Customers by Profit](./charts/top_customers_Profit.png)
 
 # Project Structure
 
