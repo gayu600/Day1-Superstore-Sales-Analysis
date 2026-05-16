@@ -4,25 +4,25 @@
 
 This project is part of my **31 Days Data Analytics & Data Science Challenge**.
 
-In this project, I performed Exploratory Data Analysis (EDA) on a retail Superstore dataset using Python to analyze customer behavior, sales performance, profit trends, and business KPIs.
+In this project, I performed Exploratory Data Analysis (EDA) on a retail Superstore dataset using Python to analyze sales performance, profit trends, customer behavior, business KPIs, and customer segmentation.
 
-The project focuses on understanding business performance through data analysis and generating actionable business insights.
-
----
-
-# Tools & Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
-* Git & GitHub
+The main objective of this project is to understand business performance and generate actionable insights using data analysis.
 
 ---
 
-# Project Workflow
+## Tools & Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Git & GitHub
+
+---
+
+## Project Workflow
 
 1. Data Loading
 2. Data Understanding
@@ -38,166 +38,142 @@ The project focuses on understanding business performance through data analysis 
 
 ---
 
-# KPIs Analyzed
+## KPIs Analyzed
 
-* Total Sales
-* Total Profit
-* Total Orders
-* Total Customers
-* Average Order Value
-* Profit Margin
-* Sales by Category
-* Profit by Region
-* Customer Segmentation
-* Discount Impact on Profit
-
----
-
-# Analysis Performed
-
-## Univariate Analysis
-
-* Sales Distribution
-* Profit Distribution
-* Orders by Ship Mode
-
-## Bivariate Analysis
-
-* Sales vs Profit
-* Discount vs Profit
-* Category vs Sales
-* Region vs Profit
-
-## Multivariate Analysis
-
-* Correlation Heatmap
-* Region + Category + Profit Analysis
+- Total Sales
+- Total Profit
+- Total Orders
+- Total Customers
+- Average Order Value
+- Profit Margin
+- Sales by Category
+- Profit by Region
+- Discount Impact on Profit
+- Customer Segmentation
 
 ---
 
-# Customer Segmentation
+## Analysis Performed
 
-Customers were segmented into:
+### Univariate Analysis
 
-* Low Value Customers
-* Medium Value Customers
-* High Value Customers
-* VIP Customers
+- Sales Distribution
+- Profit Distribution
+- Orders by Ship Mode
 
-This helped identify valuable customers and business growth opportunities.
+### Bivariate Analysis
+
+- Sales vs Profit
+- Discount vs Profit
+- Category vs Sales
+- Region vs Profit
+
+### Multivariate Analysis
+
+- Correlation Heatmap
+- Region, Category, Sales and Profit Analysis
 
 ---
-
-# Key Business Insights
-
-* Technology category generated the highest sales and strong profit.
-* The West region contributed significantly to business profitability.
-* Higher discounts negatively impacted profit margins.
-* Some products generated losses despite high sales.
-* VIP customers contributed major revenue to the business.
-
----
-
-# Charts & Visualizations
-
-The project includes:
-
-* Bar Charts
-* Histogram
-* Line Charts
-* Scatter Plots
-* Pie Charts
-* Heatmap
-* Customer Segmentation Analysis
- ---
-
-# Conclusion
-
-This project helped me understand:
-
-* real-world business analysis
-* KPI calculation
-* customer segmentation
-* trend analysis
-* sales and profit analysis
-* data visualization
-* business insights using Python
-
-Overall, this project strengthened my practical understanding of Data Analytics and Business Analysis.
-# Project Visualizations
-
-## Sales by Category
-
-![Sales by Category](./charts/sales_by_category.png)
-
-## Profit by Region
-
-![Profit by Region](./charts/profit_by_region.png)
-
-## Monthly Sales Trend
-
-![Monthly Sales Trend](./charts/monthly_sales_trend.png)
-
-## Monthly Profit Trend
-
-![Monthly Profit Trend](./charts/monthly_profit_trend.png)
-
-## Sales Distribution
-
-![Sales Distribution](./charts/sales_distribution.png)
-
-## Profit Distribution
-
-![Profit Distribution](./charts/profit_distribution.png)
-
-## Sales by Region
-
-![Sales by Region](./charts/sales_by_region.png)
-
-## Sales by Customer Segment
-
-![Sales by Customer Segment](./charts/sales_by_customer_segment.png)
-
-## Orders by Ship Mode
-
-![Orders by Ship Mode](./charts/orders_by_ship_mode.png)
-
-## Sales vs Profit
-
-![Sales vs Profit](./charts/sales_vs_profit.png)
-
-## Discount vs Profit
-
-![Discount vs Profit](./charts/discount_vs_profit.png)
-
-## Correlation Heatmap
-
-![Correlation Heatmap](./charts/correlation_heatmap.png)
-
-## Top 10 Products by Sales
-
-![Top 10 Products by Sales](./charts/top_10_products_by_sales.png)
 
 ## Customer Segmentation
 
-![Customer Segmentation](./charts/customers_segmentation.png)
+Customers were segmented into four groups:
 
-## Customer Segments Share
+- Low Value Customers
+- Medium Value Customers
+- High Value Customers
+- VIP Customers
 
-![Customer Segments Share](./charts/customers_segments_share.png)
+This segmentation helps businesses identify valuable customers and create targeted marketing strategies.
 
-## Top Customers by Sales
+---
 
-![Top Customers by Sales](./charts/top_customers_sales.png)
+## Key Business Insights
 
-## Top Customers by Profit
+- Technology category generated strong sales and profit.
+- The West region contributed significantly to overall profitability.
+- Higher discounts negatively impacted profit margins.
+- Some products generated losses despite high sales.
+- VIP customers contributed major revenue to the business.
+- Monthly sales and profit trends helped identify business performance patterns.
 
-![Top Customers by Profit](./charts/top_customers_profit.png)
+---
 
-## Top Loss-Making Customers
+## Project Visualizations
 
-![Top Loss-Making Customers](./charts/top_loss_making_customers.png)
-# Project Structure
+### Sales by Category
+![Sales by Category](charts/sales_by_category.png)
+
+### Profit by Region
+![Profit by Region](charts/profit_by_region.png)
+
+### Monthly Sales Trend
+![Monthly Sales Trend](charts/monthly_sales_trend.png)
+
+### Monthly Profit Trend
+![Monthly Profit Trend](charts/monthly_profit_trend.png)
+
+### Sales Distribution
+![Sales Distribution](charts/sales_distribution.png)
+
+### Profit Distribution
+![Profit Distribution](charts/profit_distribution.png)
+
+### Sales by Region
+![Sales by Region](charts/sales_by_region.png)
+
+### Sales by Customer Segment
+![Sales by Customer Segment](charts/sales_by_customer_segment.png)
+
+### Orders by Ship Mode
+![Orders by Ship Mode](charts/orders_by_ship_mode.png)
+
+### Sales vs Profit
+![Sales vs Profit](charts/sales_vs_profit.png)
+
+### Discount vs Profit
+![Discount vs Profit](charts/discount_vs_profit.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](charts/correlation_heatmap.png)
+
+### Top 10 Products by Sales
+![Top 10 Products by Sales](charts/top_10_products_by_sales.png)
+
+### Customer Segmentation
+![Customer Segmentation](charts/customers_segmentation.png)
+
+### Customer Segments Share
+![Customer Segments Share](charts/customers_segments_share.png)
+
+### Top Customers by Sales
+![Top Customers by Sales](charts/top_customers_sales.png)
+
+### Top Customers by Profit
+![Top Customers by Profit](charts/top_customers_profit.png)
+
+### Top Loss-Making Customers
+![Top Loss-Making Customers](charts/top_loss_making_customers.png)
+
+---
+
+## Conclusion
+
+This project helped me understand:
+
+- Real-world business analysis
+- KPI calculation
+- Customer segmentation
+- Trend analysis
+- Sales and profit analysis
+- Data visualization
+- Business insights using Python
+
+Overall, this project strengthened my practical understanding of Data Analytics and Business Analysis.
+
+---
+
+## Project Structure
 
 ```bash
 Day1_Customer_Purchase_Analysis/
@@ -207,10 +183,3 @@ Day1_Customer_Purchase_Analysis/
 ├── charts/
 ├── insights/
 └── README.md
-```
-
----
-
-# Author
-
-Gc
