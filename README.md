@@ -109,11 +109,7 @@ The project includes:
 * Pie Charts
 * Heatmap
 * Customer Segmentation Analysis
- ## Sales by Category
-
-![Sales Chart](charts/sales_by_category.png)
-
----
+ ---
 
 # Conclusion
 
@@ -128,6 +124,113 @@ This project helped me understand:
 * business insights using Python
 
 Overall, this project strengthened my practical understanding of Data Analytics and Business Analysis.
+# Project Visualizations
+
+## Sales by Category
+
+![Sales by Category](charts/sales_by_category.png)
+
+---
+
+## Profit by Region
+
+![Profit by Region](charts/Profit by Region.png)
+
+---
+
+## Monthly Sales Trend
+
+![Monthly Sales Trend](charts/Monthly Sales Trend.png)
+
+---
+
+## Monthly Profit Trend
+
+![Monthly Profit Trend](charts/Monthly Profit Trend.png)
+
+---
+
+## Sales Distribution
+
+![Sales Distribution](charts/Sales Distribution.png)
+
+---
+
+## Profit Distribution
+
+![Profit Distribution](charts/Profit Distribution.png)
+
+---
+
+## Sales by Region
+
+![Sales by Region](charts/Sales by Region.png)
+
+---
+
+## Sales by Customer Segment
+
+![Sales by Customer Segment](charts/Sales by Customer Segment.png)
+
+---
+
+## Orders by Ship Mode
+
+![Orders by Ship Mode](charts/Orders by Ship Mode.png)
+
+---
+
+## Sales vs Profit
+
+![Sales vs Profit](charts/Sales vs Profit.png)
+
+---
+
+## Discount vs Profit
+
+![Discount vs Profit](charts/Discount vs Profit.png)
+
+---
+
+## Correlation Heatmap
+
+![Correlation Heatmap](charts/Correlation Heatmap.png)
+
+---
+
+## Top 10 Products by Sales
+
+![Top 10 Products by Sales](charts/Top 10 Products by Sales.png)
+
+---
+
+## Customer Segmentation
+
+![Customer Segmentation](charts/customers_segmentation.png)
+
+---
+
+## Customer Segments Share
+
+![Customer Segments Share](charts/customers_segments_Share.png)
+
+---
+
+## Top Customers by Sales
+
+![Top Customers by Sales](charts/top_customers_sales.png)
+
+---
+
+## Top Customers by Profit
+
+![Top Customers by Profit](charts/top_customers_Profit.png)
+
+---
+
+## Top Loss-Making Customers
+
+![Top Loss-Making Customers](charts/top_loss-Making_customers.png)
 
 ---
 
