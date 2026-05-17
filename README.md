@@ -184,3 +184,7 @@ Day1_Customer_Purchase_Analysis/
 ├── charts/
 ├── insights/
 └── README.md
+
+## Author
+Gayatri Chavhan
+
