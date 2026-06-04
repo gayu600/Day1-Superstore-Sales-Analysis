@@ -59,7 +59,7 @@ The main objective of this project is to understand business performance and gen
 
 - Sales Distribution
 - Profit Distribution
-- Orders by Ship Mode
+- Orders by ship mode
 
 ### Bivariate Analysis
 
