@@ -168,7 +168,7 @@ This project helped me understand:
 - Trend analysis
 - Sales and profit analysis
 - Data visualization
-- Business insights using Python
+- Business insights using python 
 
 Overall, this project strengthened my practical understanding of Data Analytics and Business Analysis.
 
