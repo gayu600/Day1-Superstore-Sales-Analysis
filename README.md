@@ -24,7 +24,7 @@ The main objective of this project is to understand business performance and gen
 
 ## Project Workflow
 
-1. Data Loading
+1. Data Loding 
 2. Data Understanding
 3. Data Cleaning
 4. Feature Engineering
