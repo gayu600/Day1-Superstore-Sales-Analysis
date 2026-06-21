@@ -186,6 +186,6 @@ Day1_Customer_Purchase_Analysis/
 └── README.md
 ```
 ## Author
-Gayatri Chavhan
+Gayatri Chavhan 
 
 Python| Data Analytics | Business Intelligence
