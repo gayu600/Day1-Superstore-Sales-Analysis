@@ -13,7 +13,7 @@ The main objective of this project is to understand business performance and gen
 ## Tools & Technologies Used   
 
 - Python
-- Pandas
+- Pandas 
 - NumPy
 - Matplotlib
 - Seaborn
