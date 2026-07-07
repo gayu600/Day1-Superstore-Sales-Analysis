@@ -1,6 +1,6 @@
 # Day 1 - Superstore  Sales Analysis using Python
 
-## Project Overviwe
+## Project Overview
 
 This project is part  of my **31 Days Data Analytics & Data Science Challenge**.
 
