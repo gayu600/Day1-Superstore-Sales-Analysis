@@ -1,4 +1,4 @@
-⁸# Day 1 - Superstore  Sales Analysis using Python
+# Day 1 - Superstore  Sales Analysis using Python
 
 ## Project Overview
 
