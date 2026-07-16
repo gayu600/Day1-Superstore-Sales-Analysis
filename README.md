@@ -10,7 +10,7 @@ The main objective of this project is to  understand business performance and ge
 
 ---
 
-## Tools & Technologies Used   
+## Tools & Technologies Used  
 
 - Python
 - Pandas 
