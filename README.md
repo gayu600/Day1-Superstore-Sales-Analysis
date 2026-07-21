@@ -70,7 +70,7 @@ The main objective of this project is to  understand business performance and ge
 
 ### Multivariate Analysis
 
-- Correlation Heatmap
+- Correlation Heatmap 
 - Region, Category, Sales and Profit Analysis
 
 ---
