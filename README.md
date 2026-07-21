@@ -6,7 +6,7 @@ This project is part  of my **31 Days Data Analytics & Data Science Challenge**.
 
 In this project, I performed Exploratory Data Analysis (EDA) on a retail Superstore dataset using Python to analyze sales  performance, profit trends, customer behavior, business KPIs, and customer Segmentation.
 
-The main objective of this project is to  understand business performance and generate actionable insights using data  analysis 
+The main objective of this project is to  understand business performance and generate actionable insights using data analysis 
 
 ---
 
