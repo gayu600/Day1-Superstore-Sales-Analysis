@@ -75,7 +75,7 @@ The main objective of this project is to    understand business performance and 
 
 ---
 
-## Customer Segmentation
+## Customer Segmentation 
 
 Customers were segmented into four groups:
 
